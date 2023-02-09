@@ -1,0 +1,42 @@
+.div{
+    width: 80px;
+    border-radius: 50%;
+}
+.q1{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+.e1:nth-child(2n){
+   transform: translateX(920px);
+}
+.main{
+    width: 100%; 
+}
+.main-block{
+    width: 80%;
+    margin: auto;
+}
+.e1{
+    color: white;
+    border-radius: 10px;
+    background-color: blue;
+    padding: 10px;
+    width: 170px;
+}
+.w1{
+    color: black;
+    background-color: grey;
+    padding: 10px;
+    border-radius: 10px;
+    width: 170px;
+}
+.r3{
+    border-top: 1px solid grey ;
+    transform: translatex(140px);
+}
+.t3{
+    margin: 15px;
+    width: 1100px;
+    border-radius: 10px;
+}
